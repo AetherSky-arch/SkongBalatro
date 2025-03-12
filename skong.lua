@@ -1,6 +1,6 @@
 SMODS.Atlas {
 	-- Key for code to find it with
-	key = "skong",
+	key = "skongatlas",
 	-- The name of the file, for the code to pull the atlas from
 	path = "skong.png",
 	-- Width of each sprite in 1x size
@@ -21,7 +21,7 @@ SMODS.Joker {
 		}
 	},
 	rarity = 3,
-	atlas = 'skong',
+	atlas = 'skongatlas',
 	pos = { x = 0, y = 0 },
 	cost = 10,
 	calculate = function(self, card, context)
