@@ -10,7 +10,7 @@ SMODS.Joker {
 		}
 	},
 	rarity = 3,
-	atlas = 'skong',
+	atlas = 'skong.png',
 	pos = { x = 0, y = 0 },
 	cost = 10,
 	calculate = function(self, card, context)
