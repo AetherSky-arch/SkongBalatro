@@ -1,0 +1,11 @@
+{
+	"id": "skong",
+	"name": "SilkSkong Copium Joker",
+	"author": ["ae7th"],
+	"description": "Adds a rare Skong joker. Useless, thus necessary.",
+	"prefix": "skong",
+	"main_file": "skong.lua",
+	"priority": 0,
+	"version": "0.1",
+	"dependencies": []
+}
