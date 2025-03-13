@@ -14,10 +14,10 @@ SMODS.Joker {
 	loc_txt = {
 		name = 'Silksong',
 		text = {
-			"Gains {X:mult}x1{} Mult for each year",
+			"Gains {X:mult,C:white}x1{} Mult for each year",
             "Hollow Knight: Silksong hasn't",
             "released yet",
-            "{C:inactive}(Currently {X:mult}x6{} {C:inactive}Mult)",
+            "{C:inactive}(Currently {X:mult,C:white}x6{} {C:inactive}Mult)",
 		}
 	},
 	rarity = 3,
