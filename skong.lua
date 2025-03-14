@@ -17,10 +17,10 @@ SMODS.Joker {
 			"Gains {X:mult,C:white}x1{} Mult for each year",
             "Hollow Knight: Silksong hasn't",
             "released yet",
-            "{C:inactive}(Currently {X:mult,C:white}x6{} {C:inactive}Mult)",
+            "{C:inactive}(Currently {X:mult,C:white}x#1#{} {C:inactive}Mult)",
 		}
 	},
-	config = { extra = { Xmult = 6 } },
+	config = { extra = { Xmult = os.date("%Y") - 2019 } },
 	rarity = 3,
 	atlas = 'skongatlas',
 	pos = { x = 0, y = 0 },
