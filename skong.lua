@@ -18,7 +18,7 @@ SMODS.Joker {
             "{C:inactive}( {X:mult,C:white}x2025{} {C:inactive}Mult )",
 		}
 	},
-	config = { extra = { Xmult = os.date("%Y") - 2019 } },
+	config = { extra = { Xmult = 2025 } },
 	rarity = 3,
 	atlas = 'skongatlas',
 	pos = { x = 0, y = 0 },
