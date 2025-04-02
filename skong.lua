@@ -14,10 +14,8 @@ SMODS.Joker {
 	loc_txt = {
 		name = 'Silksong',
 		text = {
-			"Gains {X:mult,C:white}x1{} Mult for each year",
-            "Hollow Knight: Silksong hasn't",
-            "released yet",
-            "{C:inactive}(Currently {X:mult,C:white}x#1#{} {C:inactive}Mult)",
+			"United we hope.",
+            "{C:inactive}( {X:mult,C:white}x2025{} {C:inactive}Mult )",
 		}
 	},
 	config = { extra = { Xmult = os.date("%Y") - 2019 } },
