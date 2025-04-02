@@ -1,12 +1,12 @@
 {
 	"id": "skong",
-	"name": "SilkSkong Hopium",
+	"name": "SilkSkong H/Copium",
 	"author": ["ae7th"],
-	"description": "Adds a rare Skong joker. Useless and therefore necessary.",
+	"description": "Adds hopium and copium Skong jokers. Useless and therefore necessary.",
 	"prefix": "skong",
 	"main_file": "skong.lua",
 	"priority": 0,
-	"version": "0.1",
+	"version": "2.0",
 	"dependencies": [
         "Steamodded (>=1.*)",
 		"Lovely (>=0.6)"
